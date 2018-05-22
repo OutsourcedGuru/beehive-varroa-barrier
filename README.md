@@ -8,7 +8,7 @@ The [Varroa Mite](https://en.wikipedia.org/wiki/Varroa_destructor) is an externa
 
 Given the Varroa's preference to attach itself to the back of the adult bee out in the wild and to ride in between the bee's wings as seen in this photo, this design will be my attempt at taking out the mite before it gets into the hive.
 
-Common methods for eradicating the mites once they've infested a hive it to apply a vaporized version of oxalic acid. This attempt involves brushing each bee off and dropping the mite into a small vat of oxalic acid.
+Common methods for eradicating the mites once they've infested a hive is to apply a vaporized version of oxalic acid. My design attempt involves brushing each bee off so that the mite falls into a small vat of oxalic acid.
 
 ## Strategy
 In order for this design to work, I'll be attempting to get the bees to become more ordered. Normally, they would enter/exit the hive from the same set of holes. Here, I am attempting to segregate entrances from exits so that only the incoming bees are given the security treatment.
@@ -22,7 +22,7 @@ The bottom includes four holes which should allow the Varroa to fall through a m
 
 ![screen shot 2018-05-22 at 10 00 37 am](https://user-images.githubusercontent.com/15971213/40378426-5b68533a-5da8-11e8-8fd9-d23788a38a12.png)
 
-The underside of the middle part shows detail. The perpendicular slots in the pair of entrances is to accommodate the barrier inserts.
+The underside of the middle part shows detail. The perpendicular slots in the pair of entrances are to accommodate the barrier inserts.
 
 ![screen shot 2018-05-22 at 10 01 09 am](https://user-images.githubusercontent.com/15971213/40378493-8f7b5ab4-5da8-11e8-8fb0-0c1c91305c34.png)
 
@@ -40,7 +40,7 @@ Everything is modelled with threads for imperial aluminum hex-head bolts of the 
 Special attention was given to common shrinkage as seen in Z-oriented holes; horizontally-positioned bolts were modelled true.
 
 ## Lid
-The lid has been designed to be replaceable with other designs (like a viewing lid version) or simply removed so that a jar of sugar water can be placed on top.
+The lid has been designed to be replaceable with other designs (like a viewing lid version) or simply removed so that a jar of sugar water may be placed on top.
 
 ## Gates
 This design incorporates mylar gates at one side each of the entrances/exits to enforce single-direction traffic per tube. This allows exits to be quickly navigated while still allowing entrances to incorporate the Varroa barrier itself.
@@ -58,10 +58,10 @@ I could have probably created more tubes for the design in the same space but I 
 The inner diameter of each tube should be 5.5mm and large enough to allow any of the bees to pass through.
 
 ## Barrier shims
-The design includes eight adjustable barrier shims which mount to the vertical faces of the middle part. Imagine these as the soft rubber bristles of a modern toothbrush which are trapped in a shim. The shim is mounted in such a way that the bristle ends will knock off the Varroa mites which are riding on a particular bee's back.
+The design includes eight vertically-adjustable barrier shims which mount to the vertical faces of the middle part. Imagine these as the soft rubber bristles of a modern toothbrush which are trapped in a shim. The shim is mounted in such a way that the bristle ends will knock off the Varroa mites which are riding on a particular bee's back. Elongated mount holes allow the shim to be adjusted.
 
 ## Mesh
-Not shown in the design is a mesh of some kind which lies between the middle and bottom parts where each of the four large circles are. The mesh is just large enough to allow a Varroa mite to fall through but cause no harm to the bees themselves.
+Not shown in the design is a mesh which lies between the middle and bottom parts coincident to the four large circles. The mesh is just large enough to allow a Varroa mite to fall through but to cause no harm to the bees themselves.
 
 ## Acid tray
-Not shown in the design is a tin or similar tray underneath which holds oxalic acid. Mites who fall through the mesh land in the tray and are killed/collected there.
+Not shown in the design is a tin or similar tray underneath which holds oxalic acid. Mites who fall through the mesh land in the tray and are killed/collected there for the sake of monitoring the hive's health.
